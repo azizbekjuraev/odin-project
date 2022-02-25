@@ -1,0 +1,132 @@
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+body{
+  background-color: #fff;
+  font-family: sans-serif;
+  color: #fff;
+}
+section{
+  background-color: #1F2937;
+  width: 1500px;
+}
+
+.container h1{
+  font-size: 24px;
+}
+.box-1{
+  padding-left: 150px;
+  flex: 0.5;
+}
+.box-4{
+  flex: 0.4;
+}
+.box-5{
+  padding-left: 150px;
+  padding-top: 55px;
+  font-weight: 48px extra-bold;
+}
+.box-6{
+  padding-left: 150px;
+  font-size: 18px;
+}
+.box-7{
+  font-size: 24px;
+  border-radius: 17px;
+  background-color: #3882F6;
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  position:relative;
+  cursor: pointer;
+  border-style:ridge;
+}
+.box-8{
+    padding-left: 850px;
+    top:35%;
+  position: absolute;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.container-3{
+  background-color: #fff;
+  width: 1500px;
+  height: 500px;
+  color: black;
+  background-color: #F9FAF8;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding-top:  30px;
+  padding-bottom: 120px;
+  align-items: center;
+}
+
+.boxes {
+    display:flex;
+    padding-right: 30px;
+}
+
+.col {
+  display: flex;
+  border: 3px solid #3882F6;
+  width: 100px; height: 100px;
+  margin-left: 20px;
+  margin-top: 15px;
+  padding: 55px;
+  border-radius: 7px;
+}
+.container-4{
+  background-color:#fff;
+  width: 1500px;
+  height: 400px;
+  position: absolute;
+  color: black;
+  background: #E5E7EB;
+  font-size: 36px;
+  font-style: italic;
+}
+.container-4 h3{
+padding-left: 900px;
+font-size: 26px;
+text-indent: 10px;
+}
+.container-4 p{
+  text-align: left;
+  padding-top: 65px;
+  padding-left: 250px;
+}
+.container-5{
+  background-color:#3882F6;
+  width: 1500px;
+  position: relative;
+  margin-top: 500px;
+  text-align: center;
+  border-radius: 10px;
+  border-color: #fff;
+  border-style: solid;
+
+
+}
+.container-5 h3{
+  margin-left: 1150px;
+  top: 20%;
+display:block;
+  border-radius: 7px;
+  border-color: #fff;
+  border-style:solid;
+  position:absolute;
+}
+.copy{
+    background-color: #1F2937;
+    width:1500px;
+    height: 300px;
+    text-align: center;
+    height: 10vh;
+    padding-top: 20px;
+
+}
